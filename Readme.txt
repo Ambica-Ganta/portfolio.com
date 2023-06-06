@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Hello! Glad to see you here. This is a collection of my educational background and personal projects.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+
 License: https://bootstrapmade.com/license/
